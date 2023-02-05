@@ -12,5 +12,9 @@
   </div>
   
   <style>
-    
+    .app {
+        background-color: #F6F6F6;
+        min-height: 100vh;
+        background-image: url(../img/bg-gradient.svg);
+    }
   </style>
